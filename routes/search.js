@@ -42,6 +42,10 @@ router.get('/search', (req,res)=>{
     }
     })
 });
+
+
+
+// Database Table  Build Run Once 
 // db.users.findAll({
 //     raw:true
 //     ,attributes: {
