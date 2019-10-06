@@ -32,6 +32,7 @@ Settings and Logout functionality is found in the side navigation.
 <li>Bootstrap 4</li>
 <li>jQuery</li>
 
+
 <h2>Authors</h2>
 <li><a href="https://github.com/ethai16">Erick Thai</a></li>
 <li><a href="https://github.com/hirosoft40">Hiroko Ross</a></li>
